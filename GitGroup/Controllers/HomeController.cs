@@ -24,7 +24,7 @@ namespace GitGroup.Controllers
            return View();
         }
 
-        public IActionResult Privacy()
+        public IActionResult Privacy(string subLink, int pageNumber)
         {
             return View();
         }
