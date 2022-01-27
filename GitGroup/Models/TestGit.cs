@@ -8,6 +8,7 @@ namespace GitGroup.Models
     public class TestGit
     {
         public string Apelsin { get; set; }
+        public int price { get; set; }
 
     }
 }
